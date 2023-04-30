@@ -1,0 +1,175 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.4)  4 JAN 2022 18:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./DS_Kraken.tex
+(DS_Kraken.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22>
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip49
+\multirow@cntb=\count191
+\multirow@dima=\skip50
+\bigstrutjot=\dimen139
+) (C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count192
+\float@exts=\toks16
+\float@box=\box50
+\@float@everytoks=\toks17
+\@floatcapt=\box51
+)
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen140
+\lightrulewidth=\dimen141
+\cmidrulewidth=\dimen142
+\belowrulesep=\dimen143
+\belowbottomsep=\dimen144
+\aboverulesep=\dimen145
+\abovetopsep=\dimen146
+\cmidrulesep=\dimen147
+\cmidrulekern=\dimen148
+\defaultaddspace=\dimen149
+\@cmidla=\count193
+\@cmidlb=\count194
+\@aboverulesep=\dimen150
+\@belowrulesep=\dimen151
+\@thisruleclass=\count195
+\@lastruleclass=\count196
+\@thisrulewidth=\dimen152
+)
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+) (C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count197
+\rotFPtop=\skip51
+\rotFPbot=\skip52
+\rot@float@box=\box52
+\rot@mess@toks=\toks19
+)
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box53
+) (DS_Kraken.aux)
+\openout1 = `DS_Kraken.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen155
+\scratchbox=\box54
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen156
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks21
+)
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\danie\AppData\Local\Programs\MiKTeX_2\tex/latex/00miktex\epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 12.
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]\OT1/cmr/bx/n/10 Standard
+ []
+
+
+Overfull \hbox (55.93384pt too wide) in paragraph at lines 12--30
+ [][][] 
+ []
+
+[1{C:/Users/danie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(DS_Kraken.aux) ) 
+Here is how much of TeX's memory you used:
+ 1615 strings out of 478659
+ 27785 string characters out of 2844979
+ 328179 words of memory out of 3000000
+ 19750 multiletter control sequences out of 15000+600000
+ 403738 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,12n,76p,348b,356s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/danie/AppData/Local/Programs/MiKTeX_2/fonts/type1/pu
+blic/amsfonts/cm/cmbx10.pfb><C:/Users/danie/AppData/Local/Programs/MiKTeX_2/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on DS_Kraken.pdf (1 page, 36676 bytes).
+PDF statistics:
+ 16 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
